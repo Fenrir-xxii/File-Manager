@@ -15,3 +15,10 @@ To move between directories and files use arrow keys (UP and DOWN).
 
 This file manager works only under Windows platforms.  
 
+Screenshoots of File Manager:  
+
+![alt text](Images/01.png "photo_01")  
+
+![alt text](Images/02.png "photo_02")  
+
+![alt text](Images/03.png "photo_03")
